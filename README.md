@@ -1,2 +1,2 @@
 # ZG-HERO-Project
-Repositório do projeto ZG-HERO do ACZG 4
+Repositório criado para o projeto ZG-Hero (K1-T1) como parte do Acelera ZG 4.
